@@ -1,13 +1,12 @@
 # Settings repository
 
-## git
+## apt packages
 
 ```bash
-sudo apt update && sudo apt upgrade && sudo apt install git i3wm keepassx feh i3blocks compton htop pydf mtr ncdu 
+sudo apt update && sudo apt upgrade && sudo apt install git i3 keepassx feh i3blocks compton htop pydf mtr ncdu autojump
 ```
 
-## i3
-[Rice i3](https://www.youtube.com/watch?v=j1I63wGcvU4)
+## [i3wm](https://www.youtube.com/watch?v=j1I63wGcvU4)
 
 ## [miniconda](https://conda.io/miniconda.html)
 
