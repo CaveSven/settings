@@ -3,7 +3,7 @@
 # ukuu
 add-apt-repository -y ppa:teejee2008/ppa
 
-apt update && apt upgrade && apt install -y cmake git i3 keepassx feh i3blocks compton htop pydf mtr ncdu autojump ukuu ranger apt-transport-https ca-certificates curl software-properties-common atool fonts-font-awesome rofi thunar pavucontrol
+apt update && apt upgrade && apt install -y cmake git i3 keepassx feh i3blocks compton htop pydf mtr ncdu autojump ukuu ranger apt-transport-https ca-certificates curl software-properties-common atool fonts-font-awesome rofi thunar pavucontrol lxappearance
 
 # ripgrep
 snap install rg
