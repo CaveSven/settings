@@ -6,8 +6,7 @@ add-apt-repository -y ppa:teejee2008/ppa
 # icons
 add-apt-repository -y ppa:moka/daily
 
-
-apt update && apt upgrade && apt install -y cmake git i3 keepassx feh i3blocks compton htop pydf mtr ncdu autojump ukuu ranger apt-transport-https ca-certificates curl software-properties-common atool fonts-font-awesome rofi thunar pavucontrol lxappearance arc-theme moka-icon-theme faba-icon-theme faba-mono-icons
+apt update && apt upgrade && apt install -y vim cmake git i3 keepassx feh i3blocks compton htop pydf mtr ncdu autojump ukuu ranger apt-transport-https ca-certificates curl software-properties-common atool fonts-font-awesome rofi thunar pavucontrol lxappearance arc-theme moka-icon-theme faba-icon-theme faba-mono-icons
 
 # ripgrep
 snap install rg
