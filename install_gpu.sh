@@ -24,4 +24,5 @@ chmod +x cuda_9.0.176_384.81_linux.run
 
 rm cuda_9.0.176_384.81_linux.run
 
-
+echo "Add the following line to your .bashc"
+echo "LD_LIBRARY_PATH=/usr/local/cuda/lib64:$LD_LIBRARY_PATH"
