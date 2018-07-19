@@ -15,3 +15,5 @@ sudo ./install.sh
 ## [ribgrep](https://github.com/BurntSushi/ripgrep)
 
 ## [NVIDIA CUDA SDK](https://askubuntu.com/questions/967332/how-can-i-install-cuda-9-on-ubuntu-17-10)
+
+## [fd](https://github.com/sharkdp/fd)
