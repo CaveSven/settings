@@ -24,3 +24,6 @@ npm install -g tldr
 
 # spacemacs
 git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
+
+# markdown viewer for shell
+pip install mdv
